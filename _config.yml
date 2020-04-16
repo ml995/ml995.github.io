@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : "Lin Chen"
-  avatar           : "profile.png"
+  avatar           : "Lin.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=g_1e5CMAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "linchen_lc"
   vine             :
   weibo            :
   xing             :

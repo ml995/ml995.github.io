@@ -74,12 +74,12 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-42833019-3"
+    tracking_id          :  "UA-42833019-2"
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Lin Chen"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"

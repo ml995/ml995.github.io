@@ -15,14 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Submitted Papers/Preprints
+## Submitted Papers/Preprints
 
 1. Ruitu Xu, Lin Chen, Amin Karbasi, “Meta Learning in the Continuous Time Limit“.
 2. Lin Chen, Qian Yu, Hannah Lawrence, Amin Karbasi, “Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition“. First two authors contributed equally to this work.
 3. Yifei Min, Lin Chen, Amin Karbasi, “The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization“.
-Kaigui Bian, Lin Chen, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, “Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space“.
+1. Kaigui Bian, Lin Chen, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, “Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space“.
 
-# Conference Papers
+## Conference Papers
 1. Lin Chen, Yifei Min, Mingrui Zhang, Amin Karbasi, “More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models“, in ICML 2020. First two authors contributed equally to this work.
 1. Lin Chen, Moran Feldman, and Amin Karbasi, “Unconstrained Submodular Maximization with Constant Adaptive Complexity“, in Proc. of STOC 2019. Authors listed in alphabetical order.
 1. Lin Chen, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, “Locality-Sensitive Hashing for f-Divergences: Mutual Information Loss and Beyond“, in NeurIPS 2019.
@@ -54,11 +54,11 @@ Kaigui Bian, Lin Chen, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, 
 1. Hongji Yang, Lin Chen, Kaigui Bian, Yang Tian, Fan Ye, Wei Yan, Tong Zhao, and Xiaoming Li, “TapLock: Exploit Finger Tap Events for Enhancing Attack Resilience of Smartphone Passwords“, in Proc. of IEEE International Conference on Communications (IEEE ICC 2015), London, UK, June 2015.
 1. Lin Chen, Ruolin Fan, Kaigui Bian, Lin Chen, Mario Gerla, Tao Wang, and Xiaoming Li, “On Heterogeneous Neighbor Discovery in Wireless Sensor Networks”, in Proc. of the 34th Annual IEEE International Conference on Computer Communications (IEEE INFOCOM 2015), Hong Kong, China, April 2015. (Acceptance rate: 19%, oral presentation)[preprint][arxiv]
 1. Lin Chen, Kaigui Bian, Lin Chen, Cong Liu, Jung-Min “Jerry” Park, and Xiaoming Li, “A Group-theoretic Framework for Rendezvous in Heterogeneous Cognitive Radio Networks,” in Proc. of the 15th ACM International Symposium on Mobile Ad Hoc Networking and Computing (ACM MobiHoc 2014), Philadelphia, PA, USA, Aug. 2014. (Acceptance rate: 18.9%, oral presentation) [pdf][acmdl][slides][bibtex]
-Lin Chen, Kaigui Bian, Lin Chen, Wei Yan, and Xiaoming Li, “On the Cascading Spectrum Contention Problem in Self-coexistence of Cognitive Radio Networks,” in Proc. First ACM Workshop on Cognitive Radio Architectures for Broadband (ACM CRAB 2013), in conjunction with ACM MobiCom 2013, Miami, FL, USA, Oct. 2013. [pdf][acmdl][slides][bibtex]
+1. Lin Chen, Kaigui Bian, Lin Chen, Wei Yan, and Xiaoming Li, “On the Cascading Spectrum Contention Problem in Self-coexistence of Cognitive Radio Networks,” in Proc. First ACM Workshop on Cognitive Radio Architectures for Broadband (ACM CRAB 2013), in conjunction with ACM MobiCom 2013, Miami, FL, USA, Oct. 2013. [pdf][acmdl][slides][bibtex]
 
-# Journal Papers
+## Journal Papers
 1. Lin Chen, Ruolin Fan, Yangbin Zhang, Shuyu Shi, Kaigui Bian, Lin Chen, Pan Zhou, Mario Gerla, Tao Wang, and Xiaoming Li, “On Heterogeneous Duty Cycles for Neighbor Discovery in Wireless Sensor Networks”, in Ad Hoc Networks Journal, to appear.[pdf]
-Shuyu Shi, Stephan Sigg, Lin Chen, and Yusheng Ji. “Accurate Location Tracking from CSI-based Passive Device-free Probabilistic Fingerprinting“, in IEEE Transactions on Vehicular Technology (IEEE TVT), to appear.
+1. Shuyu Shi, Stephan Sigg, Lin Chen, and Yusheng Ji. “Accurate Location Tracking from CSI-based Passive Device-free Probabilistic Fingerprinting“, in IEEE Transactions on Vehicular Technology (IEEE TVT), to appear.
 1. Lin Chen, Kaigui Bian, Xiaojiang Du, and Xiaoming Li, “Multi-channel Broadcast via Channel Hopping in Cognitive Radio Networks”, accepted by IEEE Transactions on Vehicular Technology (IEEE TVT), vol. 64, no. 7, July 2015.[pdf][ieeedl]
 1. Kaigui Bian, Jung-Min “Jerry” Park, Lin Chen, and Xiaoming Li, “Addressing the Hidden Terminal Problem for Heterogeneous Coexistence between TDM and CSMA Networks in White Space”, in IEEE Transactions on Vehicular Technology (IEEE TVT), vol. 63, no. 9, November 2014.[pdf][ieeedl]
 

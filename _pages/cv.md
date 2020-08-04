@@ -93,6 +93,7 @@ Work experience
 * Research intern, Google, Mountain View, 2017 summer.
 
 <!-- Selected Honors and Awards -->
+
 Scholarships and Honors
 ======
 * Google Ph.D. Fellowship, Apr 2018

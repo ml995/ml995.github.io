@@ -26,9 +26,9 @@ author_profile: true
 1. Kaigui Bian, **Lin Chen**, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, [Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space](https://arxiv.org/pdf/1902.06035.pdf).
 
 ## Conference Papers
-1. [ICML'20] **Lin Chen**\*, Yifei Min\*, Mingrui Zhang, Amin Karbasi, “More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models“. 
+1. **Lin Chen**\*, Yifei Min\*, Mingrui Zhang, Amin Karbasi, [More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models](https://arxiv.org/pdf/2002.04725.pdf), *ICML 2020*.
 <!-- First two authors contributed equally to this work. -->
-1. [STOC'19] **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, “Unconstrained Submodular Maximization with Constant Adaptive Complexity“.
+1. **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://dl.acm.org/doi/abs/10.1145/3313276.3316327), *STOC 2019*.
 1. [NeurIPS'19] **Lin Chen**, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, “Locality-Sensitive Hashing for f-Divergences: Mutual Information Loss and Beyond“.
 4. [NeurIPS'19] Mingrui Zhang, **Lin Chen**, Hamed Hassani, Amin Karbasi, “Online Continuous Submodular Maximization: From Full-Information to Bandit Feedback“.
 5. [AISTATS'20] **Lin Chen**\*, Mingrui Zhang\*, Hamed Hassani, and Amin Karbasi, “Black Box Submodular Maximization: Discrete and Continuous Settings“.

@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Lin Chen"
   avatar           : "Lin.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoc at Simons Institute for the Theory of Computing"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=g_1e5CMAAAAJ&hl=en"
-  email            :
+  email            : "linchen.dr@gmail.com"
   uri              :
   bitbucket        :
   codepen          :

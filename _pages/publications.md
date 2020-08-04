@@ -17,7 +17,7 @@ author_profile: true
 
 \* denotes equal contribution.
 
-## Submitted Papers/Preprints
+## Preprints
 
 1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf).
 1. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf).
@@ -25,7 +25,7 @@ author_profile: true
 3. Yifei Min, **Lin Chen**, Amin Karbasi, [The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization](https://arxiv.org/pdf/2002.11080.pdf).
 1. Kaigui Bian, **Lin Chen**, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, [Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space](https://arxiv.org/pdf/1902.06035.pdf).
 
-## Conference Papers
+## Conference
 1. **Lin Chen**\*, Yifei Min\*, Mingrui Zhang, Amin Karbasi, [More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models](https://arxiv.org/pdf/2002.04725.pdf), *ICML 2020*.
 <!-- First two authors contributed equally to this work. -->
 1. **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://arxiv.org/pdf/1811.06603.pdf), *STOC 2019*.
@@ -65,11 +65,11 @@ author_profile: true
 1. **Lin Chen**, Kaigui Bian, Lin Chen, Wei Yan, and Xiaoming Li, [On the Cascading Spectrum Contention Problem in Self-coexistence of Cognitive Radio Networks](https://dl.acm.org/doi/pdf/10.1145/2508478.2508479), *CRAB 2013*. 
 <!-- [pdf][acmdl][slides][bibtex] -->
 
-## Journal Papers
+## Journal
 1. **Lin Chen**, Ruolin Fan, Yangbin Zhang, Shuyu Shi, Kaigui Bian, Lin Chen, Pan Zhou, Mario Gerla, Tao Wang, and Xiaoming Li, [On Heterogeneous Duty Cycles for Neighbor Discovery in Wireless Sensor Networks](https://www.sciencedirect.com/science/article/pii/S1570870518301331), *Ad Hoc Networks*.
 1. Shuyu Shi, Stephan Sigg, **Lin Chen**, and Yusheng Ji. [Accurate Location Tracking from CSI-based Passive Device-free Probabilistic Fingerprinting](https://ieeexplore.ieee.org/iel7/25/4356907/08304587.pdf), *IEEE Transactions on Vehicular Technology*.
 1. **Lin Chen**, Kaigui Bian, Xiaojiang Du, and Xiaoming Li, [Multi-channel Broadcast via Channel Hopping in Cognitive Radio Networks](https://ieeexplore.ieee.org/iel7/25/4356907/06880857.pdf), *IEEE Transactions on Vehicular Technology*.
 1. Kaigui Bian, Jung-Min “Jerry” Park, **Lin Chen**, and Xiaoming Li, [Addressing the Hidden Terminal Problem for Heterogeneous Coexistence between TDM and CSMA Networks in White Space](https://ieeexplore.ieee.org/iel7/25/4356907/06766210.pdf), *IEEE Transactions on Vehicular Technology*.
 
-# Other Publications
+## Other
 1. **Lin Chen**, Alexander Fabrikant, and Rachael Morgan, [A Method For Detecting Scheduled-Service Vehicles By Crowdsensing Of On-Board Beacons](https://www.tdcommons.org/dpubs_series/808/), *Technical Disclosure Commons*.

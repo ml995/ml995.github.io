@@ -13,7 +13,7 @@ Education
 ======
 * B.S., Peking University, 2014
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* Ph.D, Yale University, 2020
+* Ph.D., Yale University, 2020
 
 Professional Activities
 ======

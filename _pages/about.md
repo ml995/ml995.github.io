@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lin Chen's homepage"
+title: "Lin Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ redirect_from:
 <!-- Ph.D. candidate -->
 <!-- Yale Institute for Network Science, Department of Electrical Engineering, Yale University -->
 
-Lin Chen completed Ph.D. at Yale University in 2020, under the supervision of Professor Amin Karbasi. He received B.S. from Peking University in 2014. His research interests focus on machine learning theory. His Erdős number is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős).
+Lin Chen completed Ph.D. at [Yale University](https://www.yale.edu/) in 2020, under the supervision of Professor [Amin Karbasi](http://iid.yale.edu/). He received B.S. from [Peking University](http://english.pku.edu.cn/) in 2014. His research interests focus on machine learning theory. His Erdős number is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős).
 
 Email: linchen.dr [at] gmail [dot] com
 

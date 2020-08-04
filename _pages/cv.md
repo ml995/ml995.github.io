@@ -17,54 +17,54 @@ Education
 
 Professional Activities
 ======
-1. Area chair of ICLR 2021
-1. Reviewer of NeurIPS 2020 (6 papers)
-1. Reviewer of COLT 2020
-1. Reviewer of ISIT 2020
-Area chair of ICML 2020 (16 papers)
-1. Reviewer of ALT 2020
-1. Reviewer of AISTATS 2020 (7 papers)
-1. Reviewer of SODA 2019
-1. Reviewer of NeurIPS 2019 (5 papers)
-1. Reviewer of Neural Computation
-1. Reviewer of APPROX 2019
-1. Program committee member of DSAA2019 (5 papers)
-1. Program committee member of ACML 2019 (5 papers)
-1. Reviewer of FOCS 2019
-1. Program committee (PC) member of KDD 2019 (9 papers)
-1. Reviewer of JMLR (1 paper)
-1. Reviewer of ICML 2019 (5 papers)
-1. Reviewer of IEEE Letters of the Computer Society
-1. Reviewer of AISTATS 2019 (5 papers)
-1. Reviewer of NIPS 2018 (3 papers)
-1. Reviewer of GLOBECOM 2018
-1. Reviewer of IEEE Access (5 papers)
-1. Reviewer of Journal of Radio and Audio Media
-1. Reviewer of WWW 2018
-1. Reviewer of UbiComp 2017 (4 posters)
-1. Reviewer of EPJ Data Science
-1. Reviewer of Electronics Letters
-1. Reviewer of AAAI 2017 (2 papers)
-1. Reviewer of MOBIQUITOUS 2016 (2 papers)
-1. Reviewer of NIPS 2016 (3 papers)
-1. Reviewer of UbiComp 2016 (6 posters)
-1. Reviewer of VTC 2016 Fall (3 papers)
-1. Reviewer of IEEE Transactions on Mobile Computing (2 papers)
-1. Reviewer of IJCAI 2016 (3 papers)
-1. Reviewer of Journal of Computer Science and Technology (JCST)
-1. Reviewer of VTC 2016
-1. Reviewer of ICC 2016 Spring (3 papers)
-1. Reviewer of IEEE Communication Letters (2 papers)
-1. Reviewer of AAAI 2016 (4 papers)
-1. Reviewer of the 2015 International Conference on Wireless Communications and Signal Processing (WCSP 2015) (4 papers)
-1. Reviewer of TTCS 2015 (5 papers)
-1. Reviewer of UbiComp/ISWC 2015 (4 posters/demos)
-1. Reviewer of IEEE PIMRC 2015 (3 papers)
-1. Reviewer of IEEE/ACM Transactions on Networking (3 papers)
-1. Reviewer of SIGMETRICS 2015
-1. Reviewer of ICC 2015 (2 papers)
-1. Reviewer of AAAI 2015 (2 papers)
-1. Reviewer of IEEE Transactions on Vehicular Technology (4 papers)
+* Area chair of ICLR 2021
+* Reviewer of NeurIPS 2020 (6 papers)
+* Reviewer of COLT 2020
+* Reviewer of ISIT 2020
+* Area chair of ICML 2020 (16 papers)
+* Reviewer of ALT 2020
+* Reviewer of AISTATS 2020 (7 papers)
+* Reviewer of SODA 2019
+* Reviewer of NeurIPS 2019 (5 papers)
+* Reviewer of Neural Computation
+* Reviewer of APPROX 2019
+* Program committee member of DSAA2019 (5 papers)
+* Program committee member of ACML 2019 (5 papers)
+* Reviewer of FOCS 2019
+* Program committee (PC) member of KDD 2019 (9 papers)
+* Reviewer of JMLR (1 paper)
+* Reviewer of ICML 2019 (5 papers)
+* Reviewer of IEEE Letters of the Computer Society
+* Reviewer of AISTATS 2019 (5 papers)
+* Reviewer of NIPS 2018 (3 papers)
+* Reviewer of GLOBECOM 2018
+* Reviewer of IEEE Access (5 papers)
+* Reviewer of Journal of Radio and Audio Media
+* Reviewer of WWW 2018
+* Reviewer of UbiComp 2017 (4 posters)
+* Reviewer of EPJ Data Science
+* Reviewer of Electronics Letters
+* Reviewer of AAAI 2017 (2 papers)
+* Reviewer of MOBIQUITOUS 2016 (2 papers)
+* Reviewer of NIPS 2016 (3 papers)
+* Reviewer of UbiComp 2016 (6 posters)
+* Reviewer of VTC 2016 Fall (3 papers)
+* Reviewer of IEEE Transactions on Mobile Computing (2 papers)
+* Reviewer of IJCAI 2016 (3 papers)
+* Reviewer of Journal of Computer Science and Technology (JCST)
+* Reviewer of VTC 2016
+* Reviewer of ICC 2016 Spring (3 papers)
+* Reviewer of IEEE Communication Letters (2 papers)
+* Reviewer of AAAI 2016 (4 papers)
+* Reviewer of the 2015 International Conference on Wireless Communications and Signal Processing (WCSP 2015) (4 papers)
+* Reviewer of TTCS 2015 (5 papers)
+* Reviewer of UbiComp/ISWC 2015 (4 posters/demos)
+* Reviewer of IEEE PIMRC 2015 (3 papers)
+* Reviewer of IEEE/ACM Transactions on Networking (3 papers)
+* Reviewer of SIGMETRICS 2015
+* Reviewer of ICC 2015 (2 papers)
+* Reviewer of AAAI 2015 (2 papers)
+* Reviewer of IEEE Transactions on Vehicular Technology (4 papers)
 
 Presentations
 ======

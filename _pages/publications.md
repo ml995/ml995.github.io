@@ -28,18 +28,18 @@ author_profile: true
 ## Conference Papers
 1. **Lin Chen**\*, Yifei Min\*, Mingrui Zhang, Amin Karbasi, [More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models](https://arxiv.org/pdf/2002.04725.pdf), *ICML 2020*.
 <!-- First two authors contributed equally to this work. -->
-1. **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://dl.acm.org/doi/abs/10.1145/3313276.3316327), *STOC 2019*.
-1. [NeurIPS'19] **Lin Chen**, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, “Locality-Sensitive Hashing for f-Divergences: Mutual Information Loss and Beyond“.
-4. [NeurIPS'19] Mingrui Zhang, **Lin Chen**, Hamed Hassani, Amin Karbasi, “Online Continuous Submodular Maximization: From Full-Information to Bandit Feedback“.
-5. [AISTATS'20] **Lin Chen**\*, Mingrui Zhang\*, Hamed Hassani, and Amin Karbasi, “Black Box Submodular Maximization: Discrete and Continuous Settings“.
-6. [AISTATS'20] Mingrui Zhang, **Lin Chen**, Aryan Mokhtari, Hamed Hassani, and Amin Karbasi, “Quantized Frank-Wolfe: Faster Optimization, LowerCommunication, and Projection Free“.
-7. [ICML'19] MohammadHossein Bateni\*, **Lin Chen**\*, Hossein Esfandiari\*, Thomas Fu\*, Vahab S. Mirrokni\*, and Afshin Rostamizadeh\*, “Categorical Feature Compression via Submodular Optimization“. *Oral presentation*
-8. [AISTATS'19] **Lin Chen**\*, Mingrui Zhang\*, and Amin Karbasi, “Projection-Free Bandit Convex Optimization“. 
-9. [ICML'18] **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, “Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?“. *Acceptance rate: 25.0%, long talk*
-10. [ICML'18] **Lin Chen**, Christopher Harshaw, Hamed Hassani, and Amin Karbasi, “Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity“. *Acceptance rate: 25.0%, long talk*
-11. **Lin Chen**, Hamed Hassani, and Amin Karbasi, “Online Continuous Submodular Maximization”, in Proc. of AISTATS 2018. (Oral presentation)[arxiv][github]
-12. Ehsan Kazemi, **Lin Chen**, Sanjoy Dasgupta, and Amin Karbasi, “Comparison Based Learning from Weak Oracles”, in Proc. of AISTATS 2018.[arxiv]
-1. **Lin Chen**, Amin Karbasi, and Andreas Krause, “Interactive Submodular Bandit”, in Proc. of NIPS 2017. (Acceptance rate: 20.9%) [pdf]
+1. **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://arxiv.org/pdf/1811.06603.pdf), *STOC 2019*.
+1. **Lin Chen**, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, [Locality-Sensitive Hashing for f-Divergences: Mutual Information Loss and Beyond](https://papers.nips.cc/paper/9195-locality-sensitive-hashing-for-f-divergences-mutual-information-loss-and-beyond.pdf), *NeurIPS 2019*.
+4. Mingrui Zhang, **Lin Chen**, Hamed Hassani, Amin Karbasi, [Online Continuous Submodular Maximization: From Full-Information to Bandit Feedback](https://arxiv.org/pdf/1910.12424.pdf), *NeurIPS 2019*.
+5. **Lin Chen**\*, Mingrui Zhang\*, Hamed Hassani, and Amin Karbasi, [Black Box Submodular Maximization: Discrete and Continuous Settings](http://proceedings.mlr.press/v108/chen20c.html), *AISTATS 2020*.
+6. Mingrui Zhang, **Lin Chen**, Aryan Mokhtari, Hamed Hassani, and Amin Karbasi, [Quantized Frank-Wolfe: Faster Optimization, LowerCommunication, and Projection Free](http://proceedings.mlr.press/v108/zhang20g.html), *AISTATS 2020*.
+7. MohammadHossein Bateni\*, **Lin Chen**\*, Hossein Esfandiari\*, Thomas Fu\*, Vahab S. Mirrokni\*, and Afshin Rostamizadeh\*, [Categorical Feature Compression via Submodular Optimization](https://arxiv.org/pdf/1904.13389.pdf), *ICML 2019 Oral presentation*.
+8. **Lin Chen**\*, Mingrui Zhang\*, and Amin Karbasi, [Projection-Free Bandit Convex Optimization](http://proceedings.mlr.press/v89/chen19f.html), *AISTATS 2019*. 
+9. **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, [Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?](http://proceedings.mlr.press/v80/chen18b.html), *ICML 2018 Long Talk*.
+10. **Lin Chen**, Christopher Harshaw, Hamed Hassani, and Amin Karbasi, [Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity](http://proceedings.mlr.press/v80/chen18c.html), *ICML 2018 Long Talk*
+11. **Lin Chen**, Hamed Hassani, and Amin Karbasi, [Online Continuous Submodular Maximization](http://proceedings.mlr.press/v84/chen18f.html), *AISTATS 2018 Oral Presentation*. [github]
+12. Ehsan Kazemi, **Lin Chen**, Sanjoy Dasgupta, and Amin Karbasi, [Comparison Based Learning from Weak Oracles](https://arxiv.org/pdf/1802.06942.pdf), *AISTATS 2018*.
+1. **Lin Chen**, Amin Karbasi, and Andreas Krause, [Interactive Submodular Bandit](https://papers.nips.cc/paper/6619-interactive-submodular-bandit), *NeurIPS 2017*.
 1. **Lin Chen**, Amin Karbasi, and Forrest W Crawford, “Submodular Variational Inference for Network Reconstruction”, in Proc. of UAI 2017. [arxiv]
 1. **Lin Chen**, Hamed Hassani, and Amin Karbasi, “Near-Optimal Active Learning of Halfspaces via Query Synthesis in the Noisy Setting“,in Proc. of 31st AAAI Conference on Artificial Intelligence (AAAI 2017), San Francisco, California, February 2017. (Acceptance rate: 24.6%, oral presentation) [arxiv][slides][github]
 1. **Lin Chen**, Amin Karbasi, Forrest W. Crawford, “Estimating the Size of a Large Network and its Communities from a Random Sample“, in Advances in Neural Information Processing Systems 29 (NIPS 2016), Barcelona, Spain, December 2016. (Acceptance rate: 22.7%) [arxiv][pdf]

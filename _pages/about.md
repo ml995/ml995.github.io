@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Under construction
+<!-- ## Under construction -->
 
 <!-- Lin Chen -->
 <!-- Ph.D. candidate -->

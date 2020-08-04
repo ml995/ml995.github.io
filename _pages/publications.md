@@ -19,10 +19,11 @@ author_profile: true
 
 ## Submitted Papers/Preprints
 
-1. Ruitu Xu, **Lin Chen**, Amin Karbasi, “Meta Learning in the Continuous Time Limit“.
-2. **Lin Chen**, Qian Yu, Hannah Lawrence, Amin Karbasi, “Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition“. First two authors contributed equally to this work.
-3. Yifei Min, **Lin Chen**, Amin Karbasi, “The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization“.
-1. Kaigui Bian, **Lin Chen**, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, “Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space“.
+1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf).
+1. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf).
+2. **Lin Chen**\*, Qian Yu\*, Hannah Lawrence, Amin Karbasi, [Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition](https://arxiv.org/pdf/1910.10873.pdf).
+3. Yifei Min, **Lin Chen**, Amin Karbasi, [The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization](https://arxiv.org/pdf/2002.11080.pdf).
+1. Kaigui Bian, **Lin Chen**, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, [Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space](https://arxiv.org/pdf/1902.06035.pdf).
 
 ## Conference Papers
 1. [ICML'20] **Lin Chen**\*, Yifei Min\*, Mingrui Zhang, Amin Karbasi, “More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models“. 
@@ -31,11 +32,11 @@ author_profile: true
 1. [NeurIPS'19] **Lin Chen**, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, “Locality-Sensitive Hashing for f-Divergences: Mutual Information Loss and Beyond“.
 4. [NeurIPS'19] Mingrui Zhang, **Lin Chen**, Hamed Hassani, Amin Karbasi, “Online Continuous Submodular Maximization: From Full-Information to Bandit Feedback“.
 5. [AISTATS'20] **Lin Chen**\*, Mingrui Zhang\*, Hamed Hassani, and Amin Karbasi, “Black Box Submodular Maximization: Discrete and Continuous Settings“.
-6. [AISTATS'20]Mingrui Zhang, **Lin Chen**, Aryan Mokhtari, Hamed Hassani, and Amin Karbasi, “Quantized Frank-Wolfe: Faster Optimization, LowerCommunication, and Projection Free“.
+6. [AISTATS'20] Mingrui Zhang, **Lin Chen**, Aryan Mokhtari, Hamed Hassani, and Amin Karbasi, “Quantized Frank-Wolfe: Faster Optimization, LowerCommunication, and Projection Free“.
 7. [ICML'19] MohammadHossein Bateni\*, **Lin Chen**\*, Hossein Esfandiari\*, Thomas Fu\*, Vahab S. Mirrokni\*, and Afshin Rostamizadeh\*, “Categorical Feature Compression via Submodular Optimization“. *Oral presentation*
 8. [AISTATS'19] **Lin Chen**\*, Mingrui Zhang\*, and Amin Karbasi, “Projection-Free Bandit Convex Optimization“. 
 9. [ICML'18] **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, “Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?“. *Acceptance rate: 25.0%, long talk*
-10. [ICML'18]**Lin Chen**, Christopher Harshaw, Hamed Hassani, and Amin Karbasi, “Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity“. *Acceptance rate: 25.0%, long talk*
+10. [ICML'18] **Lin Chen**, Christopher Harshaw, Hamed Hassani, and Amin Karbasi, “Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity“. *Acceptance rate: 25.0%, long talk*
 11. **Lin Chen**, Hamed Hassani, and Amin Karbasi, “Online Continuous Submodular Maximization”, in Proc. of AISTATS 2018. (Oral presentation)[arxiv][github]
 12. Ehsan Kazemi, **Lin Chen**, Sanjoy Dasgupta, and Amin Karbasi, “Comparison Based Learning from Weak Oracles”, in Proc. of AISTATS 2018.[arxiv]
 1. **Lin Chen**, Amin Karbasi, and Andreas Krause, “Interactive Submodular Bandit”, in Proc. of NIPS 2017. (Acceptance rate: 20.9%) [pdf]

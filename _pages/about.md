@@ -16,6 +16,6 @@ redirect_from:
 
 Lin Chen completed Ph.D. at [Yale University](https://www.yale.edu/) in 2020, under the supervision of Professor [Amin Karbasi](http://iid.yale.edu/). He received B.S. from [Peking University](http://english.pku.edu.cn/) in 2014. His research interests focus on machine learning theory. His Erdős number is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős).
 
-Email: linchen.dr [at] gmail [dot] com
+<!-- Email: linchen.dr [at] gmail [dot] com -->
 
-ORCID Researcher ID: 0000-0003-0349-6577.
+<!-- ORCID Researcher ID: 0000-0003-0349-6577. -->

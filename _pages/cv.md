@@ -92,9 +92,9 @@ Work experience
 * Research intern, Google, New York City, 2018 summer.
 * Research intern, Google, Mountain View, 2017 summer.
 
-Selected Honors and Awards
+<!-- Selected Honors and Awards -->
+Scholarships and Honors
 ======
-## Scholarships and Honors
 * Google Ph.D. Fellowship, Apr 2018
 * NIPS Travel Award 2017
 * Yale Conference Travel Fellowship Award, Feb 2017
@@ -107,7 +107,9 @@ Selected Honors and Awards
 * Tencent Innovation Scholarship, Tencent Holdings Limited, 2012
 * Excellent Student Award, Peking University, 2011
 * National Scholarship, Ministry of Education of the People’s Republic of China, 2011
-## Competitions
+
+Competitions
+======
 * Meritorious Winner, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP), the United States, 2013
 * 1st Prize in Beijing, China Undergraduate Mathematical Contest in Modeling (CUMCM), China Society for Industrial and Applied Mathematics (CSIAM), 2012 
 * 3rd Prize, the 11th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2012

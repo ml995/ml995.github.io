@@ -19,6 +19,7 @@ author_profile: true
 
 ## Preprints
 
+1. **Lin Chen**, Sheng Xu, [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf).
 1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf).
 1. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf).
 2. **Lin Chen**\*, Qian Yu\*, Hannah Lawrence, Amin Karbasi, [Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition](https://arxiv.org/pdf/1910.10873.pdf).

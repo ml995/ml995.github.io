@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Lin Chen"
   avatar           : "Lin.jpeg"
-  bio              : "Postdoc at Simons Institute for the Theory of Computing"
+  bio              : "Postdoctoral Scholar"
   location         : 
-  employer         :
+  employer         : "Simons Institute for the Theory of Computing"
   googlescholar    : "https://scholar.google.com/citations?user=g_1e5CMAAAAJ&hl=en"
   email            : "linchen.dr@gmail.com"
   uri              :
@@ -111,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "wjunte"
 
 
 # Reading Files

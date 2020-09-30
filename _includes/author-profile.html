@@ -91,9 +91,6 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fa fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
-      {% if author.zhihu %}
-        <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fa fa-fw fa-zhihu" aria-hidden="true"></i> 知乎</a></li>
-      {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fa fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
@@ -111,6 +108,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.zhihu %}
+        <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fa fa-fw fa-zhihu" aria-hidden="true"></i> 知乎</a></li>
       {% endif %}
     </ul>
   </div>

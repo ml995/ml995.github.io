@@ -109,8 +109,11 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      {% if author.zhihu %}
+      <!-- {% if author.zhihu %}
         <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fa fa-fw fa-zhihu" aria-hidden="true"></i> 知乎</a></li>
+      {% endif %} -->
+      {% if author.zhihu %}
+        <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><div class="fa fa-fw icon-zhihu"></div>&nbsp知乎 </a></li>
       {% endif %}
     </ul>
   </div>

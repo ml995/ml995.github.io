@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Lin Chen"
   avatar           : "Lin.jpeg"
-  bio              : "Postdoctoral Scholar"
-  location         : 
-  employer         : "UC Berkeley"
+  bio              : "Postdoctoral Scholar at UC Berkeley"
+  location         : "Berkeley, California"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=g_1e5CMAAAAJ&hl=en"
   email            : "linchen.dr@gmail.com"
   uri              :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-0349-6577"
+  orcid            : # "http://orcid.org/0000-0003-0349-6577"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

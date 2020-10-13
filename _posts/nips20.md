@@ -1,3 +1,11 @@
+---
+title: 'NeurIPS 2020'
+date: 2020-10-13
+permalink: /posts/2020/10/neurips20/
+tags:
+  - references
+---
+
 **连续表面嵌入**  
 Continuous Surface Embeddings  
 Natalia Neverova (Facebook AI Research) · David Novotny (Facebook AI Research) · Marc Szafraniec (Facebook AI Research) · Vasil Khalidov (Facebook AI Research) · Patrick Labatut (Facebook AI Research) · Andrea Vedaldi (University of Oxford / Facebook AI Research)  

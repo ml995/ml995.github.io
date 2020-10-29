@@ -17,7 +17,7 @@ Education
 
 Professional Activities
 ======
-* Area chair of ICLR 2021
+* Area chair of ICLR 2021 (4 papers)
 * Reviewer of NeurIPS 2020 (6 papers)
 * Reviewer of COLT 2020
 * Reviewer of ISIT 2020
@@ -96,8 +96,9 @@ Work experience
 
 Scholarships and Honors
 ======
+* NeurIPS Travel Award 2020
 * Google Ph.D. Fellowship, Apr 2018
-* NIPS Travel Award 2017
+* NeurIPS Travel Award 2017
 * Yale Conference Travel Fellowship Award, Feb 2017
 * One of 10 Best Bachelor’s Theses, School of EECS, Peking University, June 2014
 * Beijing Outstanding University Undergraduate, May 2014

@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-\* denotes equal contribution.
+\* denotes alphabetical order or equal contribution.
 
 ## Preprints
 

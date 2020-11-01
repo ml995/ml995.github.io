@@ -14,7 +14,7 @@ redirect_from:
 <!-- Ph.D. candidate -->
 <!-- Yale Institute for Network Science, Department of Electrical Engineering, Yale University -->
 
-Lin Chen is currently a postdoctoral scholar at the [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/), [University of California, Berkeley
+Lin Chen is a postdoctoral scholar at the [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/), [University of California, Berkeley
 ](https://www.berkeley.edu/). 
 <!-- He received Ph.D. at [Yale University](https://www.yale.edu/) in 2020, advised by Prof [Amin Karbasi](http://iid.yale.edu/).
 He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->

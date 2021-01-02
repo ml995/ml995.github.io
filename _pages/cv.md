@@ -32,7 +32,7 @@ Professional Activities
 * Program committee member of ACML 2019 (5 papers)
 * Reviewer of FOCS 2019
 * Program committee (PC) member of KDD 2019 (9 papers)
-* Reviewer of JMLR (1 paper)
+* Reviewer of JMLR (4 papers)
 * Reviewer of ICML 2019 (5 papers)
 * Reviewer of IEEE Letters of the Computer Society
 * Reviewer of AISTATS 2019 (5 papers)

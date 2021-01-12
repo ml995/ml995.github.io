@@ -27,6 +27,10 @@ He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->
 
 <!-- [雪窗文稿](https://lchen.gitbook.io/essays/) -->
 
+## News
+
+* My paper [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf) was accepted to ICLR 2021. 
+
 ## Selected Awards
 * Google Ph.D. Fellowship, 2018
 * Google Excellence Scholarship, 2013

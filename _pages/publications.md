@@ -23,9 +23,11 @@ author_profile: true
 1. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf).
 3. Yifei Min, **Lin Chen**, Amin Karbasi, [The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization](https://arxiv.org/pdf/2002.11080.pdf).
 
+## 2021
+1. **Lin Chen**, Sheng Xu, [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf), *ICLR 2021*.
+
 ## 2020
 
-1. **Lin Chen**, Sheng Xu, [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf), *ICLR 2021*.
 2. **Lin Chen**\*, Qian Yu\*, Hannah Lawrence, Amin Karbasi, [Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition](https://arxiv.org/pdf/1910.10873.pdf), *NeurIPS 2020*. 
 1. **Lin Chen**\*, Yifei Min\*, Mingrui Zhang, Amin Karbasi, [More Data Can Expand the Generalization Gap Between Adversarially Robust and Standard Models](https://arxiv.org/pdf/2002.04725.pdf), *ICML 2020*.
 5. **Lin Chen**\*, Mingrui Zhang\*, Hamed Hassani, and Amin Karbasi, [Black Box Submodular Maximization: Discrete and Continuous Settings](http://proceedings.mlr.press/v108/chen20c.html), *AISTATS 2020*.

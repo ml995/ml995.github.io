@@ -1,1 +1,1 @@
-若$v$, $w$是两个
+1. 若$v$, $w$是两个向量，$G$是一个随机矩阵（一般是Stieltjes变换或者Stieltjes变换的某些函数，比如导数等），则可以通过local law of random matrices将这个矩阵换成确定的。具体见此[幻灯片](http://www.mathphys.org/Venice17/slides/knowles.pdf)。

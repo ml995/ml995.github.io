@@ -261,6 +261,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-katex
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

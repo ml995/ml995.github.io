@@ -17,6 +17,8 @@ Education
 
 Professional Activities
 ======
+* Reviewer of NeurIPS 2021
+* Reviewer of ICML 2021 Workshop on Overparameterization: Pitfalls and Opportunities (5 papers)
 * Area chair of ICLR 2021 (4 papers)
 * Reviewer of NeurIPS 2020 (6 papers)
 * Reviewer of COLT 2020
@@ -24,7 +26,7 @@ Professional Activities
 * Area chair of ICML 2020 (16 papers)
 * Reviewer of ALT 2020
 * Reviewer of AISTATS 2020 (7 papers)
-* Reviewer of SODA 2019
+* Reviewer of SODA 2020
 * Reviewer of NeurIPS 2019 (5 papers)
 * Reviewer of Neural Computation
 * Reviewer of APPROX 2019
@@ -117,7 +119,6 @@ Competitions
 * 3rd Prize, the 11th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2012
 * 3rd Prize, the 10th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2011
 * 2nd Prize, National High School Mathematics Olympiad of China, 2009
-  
 <!-- Skills
 ======
 * Skill 1
@@ -132,19 +133,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

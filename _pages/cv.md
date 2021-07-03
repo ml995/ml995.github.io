@@ -51,22 +51,22 @@ Professional Activities
 * Reviewer of NIPS 2016 (3 papers)
 * Reviewer of UbiComp 2016 (6 posters)
 * Reviewer of VTC 2016 Fall (3 papers)
-* Reviewer of IEEE Transactions on Mobile Computing (2 papers)
+* Reviewer of IEEE Transactions on Mobile Computing (4 papers)
 * Reviewer of IJCAI 2016 (3 papers)
 * Reviewer of Journal of Computer Science and Technology (JCST)
 * Reviewer of VTC 2016
 * Reviewer of ICC 2016 Spring (3 papers)
-* Reviewer of IEEE Communication Letters (2 papers)
+* Reviewer of IEEE Communication Letters (3 papers)
 * Reviewer of AAAI 2016 (4 papers)
 * Reviewer of the 2015 International Conference on Wireless Communications and Signal Processing (WCSP 2015) (4 papers)
 * Reviewer of TTCS 2015 (5 papers)
 * Reviewer of UbiComp/ISWC 2015 (4 posters/demos)
 * Reviewer of IEEE PIMRC 2015 (3 papers)
-* Reviewer of IEEE/ACM Transactions on Networking (3 papers)
+* Reviewer of IEEE/ACM Transactions on Networking (6 papers)
 * Reviewer of SIGMETRICS 2015
 * Reviewer of ICC 2015 (2 papers)
 * Reviewer of AAAI 2015 (2 papers)
-* Reviewer of IEEE Transactions on Vehicular Technology (4 papers)
+* Reviewer of IEEE Transactions on Vehicular Technology (5 papers)
 
 Presentations
 ======
@@ -119,8 +119,9 @@ Competitions
 * 3rd Prize, the 11th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2012
 * 3rd Prize, the 10th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2011
 * 2nd Prize, National High School Mathematics Olympiad of China, 2009
-<!-- Skills
-======
+
+  <!-- Skills
+  ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1

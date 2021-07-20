@@ -23,9 +23,10 @@ author_profile: true
 1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf).
 
 ## 2021
-1. **Lin Chen**, Sheng Xu, [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf), *ICLR 2021*. [slides](http://lchen91.github.io/files/NTK_talk.pdf)
-1. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf), *AISTATS 2021*.
-3. Yifei Min, **Lin Chen**, Amin Karbasi, [The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization](https://arxiv.org/pdf/2002.11080.pdf), *UAI 2021*.
+1. **Lin Chen**, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, and Qian Yu. [Feature cross search: Algorithms and hardness](https://arxiv.org/pdf/2107.02139.pdf). In *European Symposium on Algorithms (ESA)*, 2021.
+2. **Lin Chen**, Sheng Xu, [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf), *ICLR 2021*. [slides](http://lchen91.github.io/files/NTK_talk.pdf)
+3. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf), *AISTATS 2021*.
+4. Yifei Min, **Lin Chen**, Amin Karbasi, [The Curious Case of Adversarially Robust Models: More Data Can Help, Double Descend, or Hurt Generalization](https://arxiv.org/pdf/2002.11080.pdf), *UAI 2021*.
 
 ## 2020
 

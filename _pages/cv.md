@@ -81,20 +81,12 @@ Teaching Experiences
 
 Work experience
 ======
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Student researcher, Google, New York City, 2019 summer.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-* Student researcher, Google, New York City, Dec 2018 – May 2019.
-* Research intern, Google, New York City, 2018 summer.
-* Research intern, Google, Mountain View, 2017 summer.
+- Student researcher, Google, New York City, Dec 2018 – May 2019.
 
-<!-- Selected Honors and Awards -->
+* Software engineering intern, Google, New York City, 2018 summer.
+* Software engineering intern, Google, Mountain View, 2017 summer.
 
 Scholarships and Honors
 ======
@@ -119,34 +111,3 @@ Competitions
 * 3rd Prize, the 11th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2012
 * 3rd Prize, the 10th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2011
 * 2nd Prize, National High School Mathematics Olympiad of China, 2009
-
-  <!-- Skills
-  ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->

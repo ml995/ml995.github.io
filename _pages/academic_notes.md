@@ -10,4 +10,5 @@ $\def\abs#1{\vert #1 \vert}$
 8. 对于超图，有$\alpha$-无环，依次包含$\beta$-无环，$\gamma$-无环，和Berge-无环。
 9. 很简明清楚的关于核化（Kernelization）的[材料](https://simons.berkeley.edu/sites/default/files/docs/4006/lossy-kernel.pdf)。Daniel Marx的[演示文稿](http://cs.bme.hu/~dmarx/papers/marx-warsaw-fpt1)更全面。
 10. Fourier–Motzkin elimination是一种在线形不等式组中消元的算法。
+11. Hyperfunction的介绍和例子：[hyperfunction in nLab (ncatlab.org)](https://ncatlab.org/nlab/show/hyperfunction)
 

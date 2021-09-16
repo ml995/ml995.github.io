@@ -25,7 +25,7 @@ He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->
 
 <!-- ORCID Researcher ID: 0000-0003-0349-6577. -->
 
-[雪窗文稿](https://lchen.gitbook.io/essays/) 
+[雪窗文稿](https://lchen.gitbook.io/essays/essays) 
 
 ## News
 

@@ -18,14 +18,15 @@ Lin Chen is a postdoctoral scholar at the [Simons Institute for the Theory of Co
 ](https://www.berkeley.edu/). 
 <!-- He received Ph.D. at [Yale University](https://www.yale.edu/) in 2020, advised by Prof [Amin Karbasi](http://iid.yale.edu/).
 He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->
- His research interests focus on machine learning theory. 
- <!-- His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős). -->
+ His research interests focus on machine learning theory. [雪窗文稿](https://lchen.gitbook.io/essays/essays)
+
+  <!-- His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős). -->
 
 <!-- Email: linchen.dr [at] gmail [dot] com -->
 
 <!-- ORCID Researcher ID: 0000-0003-0349-6577. -->
 
-[雪窗文稿](https://lchen.gitbook.io/essays/essays) 
+
 
 ## News
 

@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Miscellaneous"
-    url: /misc/
+      #- title: "Miscellaneous"
+      # url: /misc/
   # - title: "Blog Posts"
   #   url: /year-archive/
     

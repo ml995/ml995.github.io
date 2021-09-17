@@ -18,7 +18,7 @@ Lin Chen is a postdoctoral scholar at the [Simons Institute for the Theory of Co
 ](https://www.berkeley.edu/). 
 <!-- He received Ph.D. at [Yale University](https://www.yale.edu/) in 2020, advised by Prof [Amin Karbasi](http://iid.yale.edu/).
 He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->
- His research interests focus on machine learning theory. [雪窗文稿](https://lchen.gitbook.io/essays/essays)
+ His research interests focus on machine learning theory. 
 
   <!-- His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős). -->
 
@@ -45,3 +45,7 @@ He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->
 1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf).
 2. **Lin Chen**\*, Qian Yu\*, Hannah Lawrence, Amin Karbasi, [Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition](https://arxiv.org/pdf/1910.10873.pdf), *NeurIPS 2020*. 
 1. **Lin Chen**\*, Moran Feldman\*, and Amin Karbasi\*, [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://arxiv.org/pdf/1811.06603.pdf), *STOC 2019*.
+
+## Miscellaneous
+
+[雪窗文稿](https://lchen.gitbook.io/essays)

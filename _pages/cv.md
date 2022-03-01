@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Yale University, 2020
-* B.S., Peking University, 2014
+* Ph.D., Yale University
+* B.S., Peking University
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 
 Professional Activities

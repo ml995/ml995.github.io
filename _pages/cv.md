@@ -17,6 +17,7 @@ Education
 
 Professional Activities
 ======
+* Reviewer of ICLR 2022
 * Reviewer of NeurIPS 2021
 * Reviewer of ICML 2021 Workshop on Overparameterization: Pitfalls and Opportunities (5 papers)
 * Area chair of ICLR 2021 (4 papers)
@@ -34,7 +35,7 @@ Professional Activities
 * Program committee member of ACML 2019 (5 papers)
 * Reviewer of FOCS 2019
 * Program committee (PC) member of KDD 2019 (9 papers)
-* Reviewer of JMLR (4 papers)
+* Reviewer of JMLR (5 papers)
 * Reviewer of ICML 2019 (5 papers)
 * Reviewer of IEEE Letters of the Computer Society
 * Reviewer of AISTATS 2019 (5 papers)

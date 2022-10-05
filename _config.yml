@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Lin Chen"
-  avatar           : "Lin.png"
+  avatar           : 
   bio              : "Research Scientist at Google Research"
   location         : 
   employer         : 

@@ -18,11 +18,10 @@ author_profile: true
 \* denotes alphabetical order or equal contribution.
 
 ## Preprints
-
-1. **Lin Chen**, Bruno Scherrer, Peter L. Bartlett, [Infinite-Horizon Offline Reinforcement Learning with Linear Function Approximation: Curse of Dimensionality and Algorithm](https://arxiv.org/pdf/2103.09847.pdf).
-1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf).
+1. MohammadHossein Bateni, **Lin Chen**, Matthew Fahrbach, Gang Fu, Vahab Mirrokni, Taisuke Yasuda, [Sequential Attention for Feature Selection](https://arxiv.org/pdf/2209.14881.pdf).
 
 ## 2021
+1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf). In *NeurIPS*, 2021.
 1. **Lin Chen**, Hossein Esfandiari, Gang Fu, Vahab S. Mirrokni, and Qian Yu. [Feature cross search: Algorithms and hardness](https://arxiv.org/pdf/2107.02139.pdf). In *European Symposium on Algorithms (ESA)*, 2021.
 2. **Lin Chen**, Sheng Xu, [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf), *ICLR 2021*. [slides](http://lchen91.github.io/files/NTK_talk.pdf)
 3. Ruitu Xu, **Lin Chen**, Amin Karbasi, [Meta Learning in the Continuous Time Limit](https://arxiv.org/pdf/2006.10921.pdf), *AISTATS 2021*.
@@ -90,5 +89,6 @@ author_profile: true
 
 
 ## Other
+1. **Lin Chen**, Bruno Scherrer, Peter L. Bartlett, [Infinite-Horizon Offline Reinforcement Learning with Linear Function Approximation: Curse of Dimensionality and Algorithm](https://arxiv.org/pdf/2103.09847.pdf).
 1. **Lin Chen**, Alexander Fabrikant, and Rachael Morgan, [A Method For Detecting Scheduled-Service Vehicles By Crowdsensing Of On-Board Beacons](https://www.tdcommons.org/dpubs_series/808/), *Technical Disclosure Commons*.
 1. Kaigui Bian, **Lin Chen**, Yuanxing Zhang, Jung-Min “Jerry” Park, Xiaojiang Du, Xiaoming Li, [Heterogeneous Coexistence of Cognitive Radio Networks in TV White Space](https://arxiv.org/pdf/1902.06035.pdf).

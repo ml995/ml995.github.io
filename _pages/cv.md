@@ -17,6 +17,7 @@ Education
 
 Professional Activities
 ======
+* Area chair of ICLR 2023
 * Reviewer of ICLR 2022
 * Reviewer of NeurIPS 2021
 * Reviewer of ICML 2021 Workshop on Overparameterization: Pitfalls and Opportunities (5 papers)

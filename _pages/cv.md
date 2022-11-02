@@ -70,7 +70,7 @@ Professional Activities
 * Reviewer of AAAI 2015 (2 papers)
 * Reviewer of IEEE Transactions on Vehicular Technology (5 papers)
 
-Presentations
+<!-- Presentations
 ======
 * Talk and poster presentation at ITA 2020, San Diego, CA, Feb 2020.
 * Two poster presentations on 13th Annual Machine Learning Symposium, New York, NY, USA, March 1, 2019.
@@ -112,4 +112,4 @@ Competitions
 * 1st Prize in Beijing, China Undergraduate Mathematical Contest in Modeling (CUMCM), China Society for Industrial and Applied Mathematics (CSIAM), 2012 
 * 3rd Prize, the 11th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2012
 * 3rd Prize, the 10th Peking University Programming Contest cum the Selective Trial for the ACM/ICPC Team of Peking University, 2011
-* 2nd Prize, National High School Mathematics Olympiad of China, 2009
+* 2nd Prize, National High School Mathematics Olympiad of China, 2009 -->

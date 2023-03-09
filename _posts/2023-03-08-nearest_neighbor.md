@@ -14,6 +14,12 @@ tags:
 Initially, the problem may seem challenging because the concept of the neighbor of neighbor involves multiple random variables. However, after further analysis, we make the following observations:
 
 - The neighbor of $X_{(i)}$ can only be $X_{(i-1)}$ (if $i > 2$) or $X_{(i+1)}$ (if $i < n$).
-- If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points. Therefore, the total number of good points can be expressed as $$2\mathbb{E}\left[\sum_{i=1}^{n-1} 1_{\{X_{(i)},X_{(j)}\} \text{ is a good edge}}\right]$$ where the factor of 2 is due to each good edge contributing 2 good points. Using the linearity of expectation, we obtain $$2\sum_{i=1}^{N-1} \mathbb{E}[1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}]$$.
+- If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points. Therefore, the expected value of the total number of good points can be expressed as $$f(n) = 2\mathbb{E}\left[\sum_{i=1}^{n-1} 1_{(X_{(i)},X_{(i+1)}) \text{ is a good edge}}\right]$$ where the factor of 2 is due to each good edge contributing 2 good points. Using the linearity of expectation, we obtain $$f(n)= 2\sum_{i=1}^{n-1} \mathbb{E}[1_{(X_{(i)},X_{(i+1)}) \text{is a good edge}}] = 2\sum_{i=1}^{n-1} \Pr[(X_{(i)},X_{(i+1)}) \text{is a good edge}] $$. 
 
-(not finished yet. to be continued.)
+We first define $Y_i = X_{(i+1)} - X_{(i)}$ for $i=1,2,\dots,n-1$. Note that $Y_i$ has the same distribution. There are two cases to consider:
+
+1. When $i=1$ or $i=n-1$, the edge $(X_{(1)},X_{(2)})$ is a good edge if $Y_1 < Y_2$, which happens with probability $1/2$. Similarly, the edge $(X_{(n-1)},X_{(n)})$ is a good edge if $Y_{n-2} < Y_{n-1}$, which also happens with probability $1/2$.
+
+2. When $i\ne 1,n-1$, the edge $(X_{(i)},X_{(i+1)})$ is a good edge if $Y_i < Y_{i+1}$ and $Y_i < Y_{i-1}$. In other words, $Y_i$ is the minimum one among $Y_{i-1},Y_i,Y_{i+1}$, which happens with probability $1/3$.
+
+Hence, we have $f(n) = 2\cdot ( 1/2\cdot 2 + 1/3\cdot (n-3))=2n/3$. 

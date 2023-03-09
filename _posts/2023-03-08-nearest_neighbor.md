@@ -13,7 +13,7 @@ tags:
 
 Initially, the problem may seem challenging because the concept of the neighbor of neighbor involves multiple random variables. However, after further analysis, we make the following observations:
 
-The neighbor of $X_{(i)}$ can only be $X_{(i-1)}$ (if $i > 2$) or $X_{(i+1)}$ (if $i < N$).
+<!-- The neighbor of $X_{(i)}$ can only be $X_{(i-1)}$ (if $i > 2$) or $X_{(i+1)}$ (if $i < N$).
 If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points. Therefore, the total number of good points is given by
 $$\mathbb{E}\left[\sum_{i=1}^{N-1} 1_{{X_{(i)},X_{(j)}} \text{is a good edge}}\right].$$
 Using the linearity of expectation, we obtain
@@ -21,4 +21,4 @@ $$\sum_{i=1}^{N-1} \mathbb{E}[1_{{X_{(i)},X_{(j)}} \text{is a good edge}}].$$we 
 this problem is at first glance challenging since the notion of neighbor of neighbor looks complicated and involves multiple random variables. however, after thinking about this a little more, we make the following observations:
 
 - the neighbor of $X_{(i)}$ can only be either $X_{(i-1)}$ (if $i > 2$) or $X_{(i+1)}$ (if $i < N$). 
-- if the neighbor of $X_{(i)}$ is $X_{(j)}$ (so $j=i\pm 1$), and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. in light of this, we call the edge $\{X_{(i)},X_{(j)}\}$ a good edge if either (and thus both) of them is a good point. Then the total number of good points is given by $$\mathbb{E}\left[\sum_{i=1}^{N-1} 1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}\right]$$. using the linearity of expectation, we get $$\sum_{i=1}^{N-1} \mathbb{E}[1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}]$$
+- if the neighbor of $X_{(i)}$ is $X_{(j)}$ (so $j=i\pm 1$), and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. in light of this, we call the edge $\{X_{(i)},X_{(j)}\}$ a good edge if either (and thus both) of them is a good point. Then the total number of good points is given by $$\mathbb{E}\left[\sum_{i=1}^{N-1} 1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}\right]$$. using the linearity of expectation, we get $$\sum_{i=1}^{N-1} \mathbb{E}[1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}]$$ -->

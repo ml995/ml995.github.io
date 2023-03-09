@@ -14,7 +14,8 @@ tags:
 Initially, the problem may seem challenging because the concept of the neighbor of neighbor involves multiple random variables. However, after further analysis, we make the following observations:
 
 - The neighbor of $X_{(i)}$ can only be $X_{(i-1)}$ (if $i > 2$) or $X_{(i+1)}$ (if $i < n$).
-- If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points. Therefore, the expected value of the total number of good points can be expressed as $$f(n) = 2\mathbb{E}\left[\sum_{i=1}^{n-1} 1_{(X_{(i)},X_{(i+1)}) \text{ is a good edge}}\right]$$ where the factor of 2 is due to each good edge contributing 2 good points. Using the linearity of expectation, we obtain $$f(n)= 2\sum_{i=1}^{n-1} \mathbb{E}[1_{(X_{(i)},X_{(i+1)}) \text{ is a good edge}}] = 2\sum_{i=1}^{n-1} \Pr[(X_{(i)},X_{(i+1)}) \text{ is a good edge}] $$. 
+- If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is also a good point. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points.
+- The good edges do not share any points. Therefore, we can express the expected value of the total number of good points as $$f(n) = 2\mathbb{E}\left[\sum_{i=1}^{n-1} 1_{(X_{(i)},X_{(i+1)}) \text{ is a good edge}}\right],$$ where the factor of 2 is due to each good edge contributing 2 good points. Using the linearity of expectation, we obtain $$f(n)= 2\sum_{i=1}^{n-1} \mathbb{E}[1_{(X_{(i)},X_{(i+1)}) \text{ is a good edge}}] = 2\sum_{i=1}^{n-1} \Pr[(X_{(i)},X_{(i+1)}) \text{ is a good edge}]. $$
 
 We first define $Y_i = X_{(i+1)} - X_{(i)}$ for $i=1,2,\dots,n-1$. Note that $Y_i$ has the same distribution. There are two cases to consider:
 

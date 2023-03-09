@@ -1,7 +1,7 @@
 ---
-title: 'Expected Number of Points Whose Nearest Neighbor of Nearest Neighbor is itself'
+title: 'Expected Number of Points Whose Neighbor of Neighbor is itself'
 date: 2023-03-08
-permalink: /posts/2023/03/nearest_neighbor_of_nearest_neighbor/
+permalink: /posts/2023/03/neighbor_of_neighbor/
 tags:
   - probability
 ---
@@ -14,6 +14,6 @@ tags:
 Initially, the problem may seem challenging because the concept of the neighbor of neighbor involves multiple random variables. However, after further analysis, we make the following observations:
 
 - The neighbor of $X_{(i)}$ can only be $X_{(i-1)}$ (if $i > 2$) or $X_{(i+1)}$ (if $i < n$).
-- If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points. Therefore, the total number of good points is given by $\mathbb{E}\left[\sum_{i=1}^{n-1} 1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}\right].$ Using the linearity of expectation, we obtain $\sum_{i=1}^{N-1} \mathbb{E}[1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}].$
+- If the neighbor of $X_{(i)}$ is $X_{(j)}$ (where $j=i\pm 1$) and if $X_{(i)}$ is a good point, then $X_{(j)}$ is a good point as well. Based on this observation, we refer to the edge ${X_{(i)},X_{(j)}}$ as a good edge if either, and thus both, of them are good points. Therefore, the total number of good points is given by $$\mathbb{E}\left[\sum_{i=1}^{n-1} 1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}\right].$$ Using the linearity of expectation, we obtain $$\sum_{i=1}^{N-1} \mathbb{E}[1_{\{X_{(i)},X_{(j)}\} \text{is a good edge}}]$$.
 
 (not finished yet. to be continued.)

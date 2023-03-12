@@ -17,8 +17,8 @@ author_profile: true
 
 \* denotes alphabetical order or equal contribution.
 
-## Preprints
-1. MohammadHossein Bateni, **Lin Chen**, Matthew Fahrbach, Gang Fu, Vahab Mirrokni, Taisuke Yasuda, [Sequential Attention for Feature Selection](https://arxiv.org/pdf/2209.14881.pdf).
+## 2023
+1. MohammadHossein Bateni\*, **Lin Chen**\*, Matthew Fahrbach\*, Gang Fu\*, Vahab Mirrokni\*, Taisuke Yasuda\*, [Sequential Attention for Feature Selection](https://arxiv.org/pdf/2209.14881.pdf). *ICLR 2023*.
 
 ## 2021
 1. **Lin Chen**, Yifei Min, Mikhail Belkin, Amin Karbasi, [Multiple Descent: Design Your Own Generalization Curve](https://arxiv.org/pdf/2008.01036.pdf). In *NeurIPS*, 2021.

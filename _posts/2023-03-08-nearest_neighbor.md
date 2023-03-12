@@ -2,6 +2,7 @@
 title: 'Expected Number of Points Whose Neighbor of Neighbor is itself'
 date: 2023-03-08
 permalink: /posts/2023/03/neighbor_of_neighbor/
+comments: true
 tags:
   - probability
 ---

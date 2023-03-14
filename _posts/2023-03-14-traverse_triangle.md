@@ -9,7 +9,7 @@ tags:
 
 **Problem**: Consider a triangle $ABC$, where an ant starts at point $A$. At each moment, the ant moves with equal probability to either of the other two points. What is the expected number of moves until the ant has visited all three edges for the first time? Additionally, what is the expected number of moves for a tetrahedron $ABCD$ in which the ant starts at vertex $A$ and moves with equal probability to any of the other three vertices at each moment, until it has visited all six edges for the first time?
 
-**Solution**: ![text](images/5triangles.svg)
+**Solution**: ![Illustration of the five states](/images/5triangles.svg)
 
 After excluding symmetry, this problem can be represented by five states, as shown in the figure. Dashed lines represent unvisited edges, solid lines represent visited edges, and slightly larger dots indicate the current location of the ant. Below, we describe each of these five states:
 

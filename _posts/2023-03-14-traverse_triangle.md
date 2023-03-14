@@ -13,15 +13,15 @@ tags:
 
 After excluding symmetry, this problem can be represented by five states, as shown in the figure. Dashed lines represent unvisited edges, solid lines represent visited edges, and slightly larger dots indicate the current location of the ant. Below, we describe each of these five states:
 
-- Initial state: No edges have been visited. The ant starts at vertex $A$.
+1. Initial state: No edges have been visited. The ant starts at vertex $A$.
 
-- The ant has visited one edge and stopped at one of its vertices.
+2. The ant has visited one edge and stopped at one of its vertices.
 
-- The ant has visited two edges and stopped at a vertex of the unvisited edge.
+3. The ant has visited two edges and stopped at a vertex of the unvisited edge.
 
-- The ant has visited two edges and stopped at the common vertex of the two visited edges. Note that state 3 must occur before state 4.
+4. The ant has visited two edges and stopped at the common vertex of the two visited edges. Note that state 3 must occur before state 4.
 
-- All three edges have been visited. This is the termination state.
+5. All three edges have been visited. This is the termination state.
 
 We define $f(i)$ as the expected time it takes to reach state 5 starting from state $i$. We set $f(5)=0$. Note that from state 4, the ant must move to state 3 next, so we have $f(4)=1+f(3)$. When starting from state 3, there are two possibilities. In our example, if the ant visits the unvisited edge (in our example, the ant goes from point $C$ to point $A$), we enter state 5 with a probability of 1/2. Otherwise, with a probability of 1/2, we move from state 3 to state 4. Thus, we get $f(3)=1+1/2\cdot (f(5)+f(4))$. Similarly, state 2 has a 1/2 probability of moving to state 3 and a 1/2 probability of returning to state 2, so $f(2)=1+1/2\cdot (f(2)+f(3))$. State 1 must move to state 2 next, so $f(1)=1+f(2)$.
 

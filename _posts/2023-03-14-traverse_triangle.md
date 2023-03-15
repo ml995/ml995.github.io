@@ -31,8 +31,8 @@ To summarize the equations: $f(5)=0$, $f(4)=1+f(3)$, $f(3)=1+1/2\cdot (f(5)+f(4)
 
 We can also apply the geometric distribution to analyze this problem. After starting from state 1, the next state must be state 2, which takes 1 unit of time. Then, the time it takes to transition from state 2 to state 3 follows a geometric distribution with parameter $p=1/2$, with an expected value of 2.
 
-From state 3, there are two possible outcomes. With a probability of 1/2, the ant returns to state 3, which takes 2 units of time since it has to go through state 4. Alternatively, with a probability of 1/2, the ant proceeds to state 5. Therefore, the time it takes starting from state 3 is given by $2(\mathrm{Geom}(1/2)-1)+1$, which has an expected value of 3.
+From state 3, there are two possible outcomes. With a probability of $1/2$, the ant returns to state 3, which takes 2 units of time since it has to go through state 4. Alternatively, with a probability of 1/2, the ant proceeds to state 5. Therefore, the time it takes starting from state 3 is given by $2(\mathrm{Geom}(1/2)-1)+1$, which has an expected value of 3.
 
 Thus, the expected total time to traverse all edges is the sum of the expected times to transition from state 1 to state 2, from state 2 to state 3, and from state 3 to state 5, which is $1+2+3=6$. This result is consistent with the one obtained above.
 
-Here is a [link]([triangle_ant_simulation.py · GitHub](https://gist.github.com/lchen91/7cb8adad9ede50aa41150bb73a7c31fd)) to the code for the simulation.
+Here is a [link](https://gist.github.com/lchen91/7cb8adad9ede50aa41150bb73a7c31fd) to the code for the simulation.

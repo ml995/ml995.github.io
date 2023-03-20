@@ -37,4 +37,4 @@ Thus, the expected total time to traverse all edges is the sum of the expected t
 
 Here is a [link](https://gist.github.com/lchen91/7cb8adad9ede50aa41150bb73a7c31fd) to the code for the simulation.
 
-**Follow-Up Question:** what is the expected number of moves for a tetrahedron $ABCD$ in which the ant starts at vertex $A$ and moves with equal probability to any of the other three vertices at each moment, until it has visited all six edges for the first time
+**Follow-Up Question:** what is the expected number of moves for a tetrahedron $ABCD$ in which the ant starts at vertex $A$ and moves with equal probability to any of the other three vertices at each moment, until it has visited all six edges for the first time?

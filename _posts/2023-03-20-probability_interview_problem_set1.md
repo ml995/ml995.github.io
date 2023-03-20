@@ -43,4 +43,4 @@ Alternatively, if you have 10 10-sided dice instead, what would be the expected 
 
 -----
 
-**Problem 8:** Suppose you flip four coins. What is the probability of obtaining an even number of heads? If you flip nine coins, what is the probability of obtaining an even number of heads? If you flip an odd number of coins, what is the probability of obtaining an even number of heads? Lastly, what is the probability of obtaining an even number of heads when flipping an even number of coins
+**Problem 8:** Suppose you flip four coins. What is the probability of obtaining an even number of heads? If you flip nine coins, what is the probability of obtaining an even number of heads? If you flip an odd number of coins, what is the probability of obtaining an even number of heads? Lastly, what is the probability of obtaining an even number of heads when flipping an even number of coins?

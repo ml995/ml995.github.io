@@ -13,9 +13,13 @@ In this blog post, I will present a list of interview problems related to probab
 
 **Problem 1:** You play a game in which you throw a dice repeatedly, and your payoff is the cumulative sum of the points you throw. However, if the sum of the points you throw is a perfect square, you lose the game. You have the option to stop the game at any time and take the amount of money equal to the current sum. Currently, your score is 35. Would you like to continue playing the game?
 
+This problem was discussed [here](https://web.archive.org/web/20230320233237/https://math.stackexchange.com/questions/977679/toss-a-fair-die-until-the-cumulative-sum-is-a-perfect-square-expected-value) and [here](https://web.archive.org/web/20230320233310/https://math.stackexchange.com/questions/1176195/would-you-ever-stop-rolling-the-die).
+
 -----
 
 **Problem 2:** You and your opponent each roll a dice randomly. While you can see the value of one of the dice, your opponent can see the value of the other. Money equal to the sum of the two dice is placed in a box. You and your opponent take turns bidding to buy the box. The question is, who should bid first? Additionally, assuming that you know the value you can see on your dice, what is the optimal bidding strategy for you?
+
+This problem was discussed [here](https://web.archive.org/web/20230320233056/https://math.stackexchange.com/questions/3406588/optimal-strategy-of-a-dice-game).
 
 -----
 
@@ -40,6 +44,8 @@ Alternatively, if you have 10 10-sided dice instead, what would be the expected 
 -----
 
 **Problem 7:** What is the smallest integer whose digits multiply to 96?
+
+This problem was discussed [here](https://web.archive.org/web/20230320233451/https://www.glassdoor.com/Interview/I-am-thinking-of-a-number-that-does-not-contain-the-digit-1-The-product-of-the-digits-is-96-What-is-the-smallest-possible-QTN_129149.htm#:~:text=The%20smallest%20number%20we%20can,96%20and%20contain%20no%201's.).
 
 -----
 

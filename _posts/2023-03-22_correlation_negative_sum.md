@@ -4,7 +4,6 @@ date: 2023-03-22
 permalink: /posts/2023/03/correlation_negative_sum/
 comments: true
 tags:
-  - probability
   - statistics
 ---
 

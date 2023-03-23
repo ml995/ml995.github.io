@@ -1,0 +1,14 @@
+\documentclass[tikz,border=2mm,convert=pdf2svg]{standalone}
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \fill[gray!40] (-1,-1) -- (-1,1) -- (1,-1) -- cycle;
+  \draw[->] (-1.2,0) -- (1.2,0) node[below right] {$X$};
+  \draw[->] (0,-1.2) -- (0,1.2) node[above left] {$Y$};
+  \foreach \i in {45,135,...,315}
+    \draw[thick] (0,0) -- (\i:1.5);
+  \node[above right] at (170:0.9) {A};
+  \node[above right] at (210:1) {B};
+  \node[above right] at (240:1) {C};
+  \node[above left] at (300:1) {D};
+\end{tikzpicture}
+\end{document}

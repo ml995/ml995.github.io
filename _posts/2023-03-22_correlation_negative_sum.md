@@ -1,6 +1,6 @@
 ---
 title: 'Sign of Correlation between Standard Normal Random Variables Conditioned on Negative Sum'
-date: 2023-03-20
+date: 2023-03-22
 permalink: /posts/2023/03/correlation_negative_sum/
 comments: true
 tags:

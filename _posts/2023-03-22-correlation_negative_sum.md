@@ -5,6 +5,7 @@ permalink: /posts/2023/03/correlation_negative_sum/
 comments: true
 tags:
   - statistics
+  - probability
 ---
 
 

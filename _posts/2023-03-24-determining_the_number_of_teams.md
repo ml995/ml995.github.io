@@ -1,7 +1,7 @@
 ---
 title: 'Determining the Number of Teams'
 date: 2023-03-24
-permalink: /posts/2023/03/correlation_negative_sum/
+permalink: /posts/2023/03/determining_the_number_of_teams/
 comments: true
 tags:
   - brain-teaser

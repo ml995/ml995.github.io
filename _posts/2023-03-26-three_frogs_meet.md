@@ -28,8 +28,8 @@ $$
   
 Solving the above system of equations yields $x_1=12$. To verify this result, we can use the following Python code:
 
- ```
- import random
+```
+import random
 
 def simulate():
     # Initialize the vertices with one frog each

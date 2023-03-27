@@ -28,7 +28,7 @@ $$
   
 Solving the above system of equations yields $x_1=12$. To verify this result, we can use the following Python code:
 
-```
+```python
 import random
 
 def simulate():

@@ -1,6 +1,6 @@
 ---
 title: 'How Long Will It Take for Three Frogs to Meet on a Triangle?'
-date: 2023-03-24
+date: 2023-03-26
 permalink: /posts/2023/03/three_frogs_meet/
 comments: true
 tags:

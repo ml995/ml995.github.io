@@ -19,10 +19,10 @@ In this blog post, we will examine the ways in which $n$ (labeled or unlabeled) 
 
 The last two columns of the table correspond to situations where we have unlabeled boxes. When there are k unlabeled boxes that can be empty (the third column), the number of ways to put balls in them is simply the sum of i from 1 to k. Therefore, we focus on the case where the boxes cannot be empty (the fourth column).
 
-The notation ${n \brace k}$ (also known as Stirling numbers of the second kind) and $\left|n \atop k\right|$ are used by definition. We can calculate these numbers using recurrence relations and initial conditions as follows:
+The notation ${n \brace k}$ (also known as Stirling numbers of the second kind) and $\left\|n \atop k\right\|$ are used by definition. We can calculate these numbers using recurrence relations and initial conditions as follows:
 
-- For $n \geq 0$, we have ${n \brace n} = \left|n \atop n\right| = 1$.
-- For $n > 0$, we have ${n \brace 0} = \left|n \atop 0\right| = 0$.
+- For $n \geq 0$, we have ${n \brace n} = \left\|n \atop n\right\| = 1$.
+- For $n > 0$, we have ${n \brace 0} = \left\|n \atop 0\right\| = 0$.
 - For $0 < k < n$, we have:
 
 $$
@@ -32,6 +32,6 @@ $$
 \end{aligned}
 $$
 
-These formulas can be used to recursively compute the Stirling numbers and $\left|n \atop k\right|$ for any given values of n and k.
+These formulas can be used to recursively compute the Stirling numbers and $\left\|n \atop k\right\|$ for any given values of n and k.
 
 (to be continued)

@@ -7,7 +7,7 @@ tags:
   - interview
 ---
 
-In this blog post, I will present a list of interview problems related to probability. I intend to publish solutions for some of these problems in the future. I hope you find these problems interesting and enjoyable! I will continue to update this blog post by including additional problems and their respective solutions. The most recent update to this post was made on March 29, 2023.
+In this blog post, I will present a list of interview problems related to probability. I intend to publish solutions for some of these problems in the future. I hope you find these problems interesting and enjoyable! I will continue to update this blog post by including additional problems and their respective solutions. The most recent update to this post was made on March 30, 2023.
 
 # `SmFuZSBTdHJlZXQ=`
 
@@ -76,3 +76,46 @@ $$
 -----
 
 **Problem 2.3:** Suppose we conduct two linear regressions on the sets of paired data $(x_i, y_i)$. One regression generates an equation in the form of $y = ax + b_1$, while the other regression results in an equation of the form $x = by + b_2$. What is the relationship between the coefficients $a$ and $b$ in these equations?
+
+-----
+
+**Problem 2.4:** We assume the heights of people on a street are iid. We randomly select a person with height $X$ and sample heights until finding someone taller. Let $N$ be the number of people we look at. What is the expected value of $N$?
+
+*Solution 2.4:* Notice that $N$ is a geometric random variable conditioned on $X$, with $N\mid X\sim \mathrm{Geom}(1-F(X))$, where $F$ is the cumulative distribution function of the height distribution. Then, we have:
+
+$$
+\begin{aligned}
+\mathbb{E}[N] &= \mathbb{E}\left[\frac{1}{1-F(X)}\right]\\
+&= \int_{t=-\infty}^{\infty} \frac{1}{1-F(t)} dF(t) \\
+&= -\ln(1-F(t))\bigg|_{t=-\infty}^{\infty} \\
+&= \infty.
+\end{aligned}
+$$
+
+In other words, the expected value of $N$ is infinite, which means that on average, we would need to look at an infinite number of people before finding someone taller than $X$.
+
+-----
+
+**Problem 2.5:** A white cube with sides measuring 3 units each is painted red on all of its surfaces. The cube is then cut into 27 smaller cubes, each measuring 1 unit on each side. If someone randomly selects one of the smaller cubes and throws it onto a table, and five of its faces are observed to be white, what is the probability that the last face is red?
+
+*Solution 2.5:* We are given a set of small cubes, each of which can have at most three red faces. Out of the 27 cubes, one has no red faces, six have one red face, twelve have two red faces, and eight have three red faces.
+
+Let $O$ denote the event of observing that five of the faces of a randomly selected cube are white. Let $R$ denote the number of red faces of the chosen cube. We know that $\Pr(O\mid R=0)=1$, $\Pr(O\mid R=1)=1/6$ (the probability that the face that lands on the table is the red one and hence remains invisible), and $\Pr(O\mid R=2) = \Pr(O\mid R=3) = 0$. 
+
+Given the observation $O$, the event that the last face is red is exactly the event that $R=1$. Using Bayes' theorem, we have:
+
+$$
+\Pr(R=1\mid O) = \frac{\Pr(O\mid R=1)\Pr(R=1)}{\sum_{i=0}^3 \Pr(O\mid R=i)\Pr(R=i)} = \frac{1/6\cdot 6/27}{1/6\cdot 6/27+1\cdot 1/27} = \frac{1}{2}.
+$$
+
+Therefore, the probability that the last face of the cube is red, given that five of its faces are observed to be white, is $1/2$.
+
+-----
+
+**Problem 2.6:** On a circular table, $x$ individuals from country A and $y$ individuals from country B are seated randomly. Each person from the same country shakes hands with only those from their own country, and only with the person to their left or right. What is the probability of two randomly chosen individuals shaking hands?
+
+*Solution 2.6:* The probability of a handshake is the product of the probability of two people sitting next to each other and the probability of them being from the same country. The probability of two people sitting next to each other is $\frac{x+y}{\binom{x+y}{2}}$, and the probability of them being from the same country is $\frac{\binom{x}{2}+\binom{y}{2}}{\binom{x+y}{2}}$. Therefore, the probability of a handshake is:
+
+$$
+\frac{x+y}{\binom{x+y}{2}}\cdot \frac{\binom{x}{2}+\binom{y}{2}}{\binom{x+y}{2}} = \frac{2(x(x-1)+y(y-1))}{(x+y)(x+y-1)^2}.
+$$

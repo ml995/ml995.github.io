@@ -40,7 +40,14 @@ Therefore, the game is fair.
 Since $A = X_1 + X_2 + X_3$ and $X_i \sim \mathrm{Unif}([6])$, we have $\mathrm{Var}[X_i] = (6^2 - 1)/12 = 35/12$ and $\mathrm{Var}[A] = 35/12 \cdot 3 = 35/4$, $\mathbb{E}[A] = (1 + 6)/2 \cdot 3 = 21/2$, $\mathbb{E}[A^2] = \mathrm{Var}[A] + \mathbb{E}[A]^2 = 35/4 + (21/2)^2 = 119$. Therefore, we have
 
 $$
-\Pr(A > \max\{B,C\}) = \Pr(A > B \wedge A > C) = \mathbb{E}[\Pr(B < A \mid A)\Pr(C < A \mid A)] = \mathbb{E}[(\frac{A-1}{20})^2] = \frac{1}{400}\mathbb{E}[A^2-2A+1] = (119-21+1)/400 = 99/400.
+\begin{align*}
+\Pr(A > \max{B,C}) &= \Pr(A > B \wedge A > C) \\
+&= \mathbb{E}[\Pr(B < A \mid A)\Pr(C < A \mid A)] \\
+&= \mathbb{E}[(\frac{A-1}{20})^2] \\
+&= \frac{1}{400}\mathbb{E}[A^2-2A+1] \\
+&= (119-21+1)/400 \\
+&= 99/400.
+\end{align*}
 $$
 
 It is obvious that the winning probability is the same for players B and C. Let us compute the winning probability of player B.
@@ -48,13 +55,23 @@ It is obvious that the winning probability is the same for players B and C. Let 
 We have
 
 $$
-\mathbb{E}[\mathbb{E}[\max\{A,C\} \mid A]] = \mathbb{E}[\frac{A}{20}\cdot A + (1 - \frac{A}{20})\frac{20+A+1}{2}] = \mathbb{E}[\frac{A^2-A+420}{40}] = \frac{119-21/2+420}{40} = 1057/80.
+\begin{align*}
+\mathbb{E}[\mathbb{E}[\max{A,C} \mid A]] &= \mathbb{E}[\frac{A}{20}\cdot A + (1 - \frac{A}{20})\frac{20+A+1}{2}] \\
+&= \mathbb{E}[\frac{A^2-A+420}{40}] \\
+&= \frac{119-21/2+420}{40} \\
+&= 1057/80.
+\end{align*}
 $$
 
 Thus, 
 
 $$
-\Pr(B > \max\{A,C\}) = \mathbb{E}[\frac{20-\max\{A,C\}}{20}] = 1 - \frac{1}{20}\mathbb{E}[\max\{A,C\}\mathbb{E}[\mid A]] = 1 - 1057/1600 = 543/1600.
+\begin{align*}
+\Pr(B > \max{A,C}) &= \mathbb{E}[\frac{20-\max{A,C}}{20}] \\
+&= 1 - \frac{1}{20}\mathbb{E}[\max{A,C}\mathbb{E}[\mid A]] \\
+&= 1 - 1057/1600 \\
+&= 543/1600.
+\end{align*}
 $$
 
 So the game is not fair in the sense of different winning probabilities. The problem was also discussed [here](https://web.archive.org/web/20230401010602/https://math.stackexchange.com/questions/2610668/is-this-a-fair-game-three-players-throw-dice).

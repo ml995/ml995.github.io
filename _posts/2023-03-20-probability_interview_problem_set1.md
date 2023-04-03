@@ -7,7 +7,7 @@ tags:
   - interview
 ---
 
-In this blog post, I will present a list of interview problems related to probability. I intend to publish solutions for some of these problems in the future. I hope you find these problems interesting and enjoyable! I will continue to update this blog post by including additional problems and their respective solutions. The most recent update to this post was made on March 30, 2023.
+In this blog post, I will present a list of interview problems related to probability. I intend to publish solutions for some of these problems in the future. I hope you find these problems interesting and enjoyable! I will continue to update this blog post by including additional problems and their respective solutions. The most recent update to this post was made on April 2, 2023.
 
 # SmFuZSBTdHJlZXQ=
 
@@ -58,7 +58,13 @@ This problem was discussed [here](https://web.archive.org/web/20230320233451/htt
 *Solution 2.1:* We can use the normal approximation of $X$, which is $X'\sim \mathcal{N}(100\cdot 3.5, 100\cdot \frac{6^2-1}{12})=\mathcal{N}(350, 875/3)$. Then, we have:
 
 $$
-\Pr(X\ge 400)\approx \Pr(X'\ge 400) = 1-\Pr(X'<400) = 1-\Phi\left(\frac{400-\mu}{\sigma}\right) = 1- \Phi\left(\frac{2\sqrt{105}}{7}\right) \approx 0.001707,
+\begin{align*}
+\Pr(X\ge 400) &\approx \Pr(X'\ge 400) \\
+&= 1-\Pr(X'<400) \\
+&= 1-\Phi\left(\frac{400-\mu}{\sigma}\right) \\
+&= 1- \Phi\left(\frac{2\sqrt{105}}{7}\right) \\
+&\approx 0.001707,
+\end{align*}
 $$
 
 where $\mu = 350$ and $\sigma^2 = 875/3$. Here, $\Phi$ is the CDF of the standard normal distribution.
@@ -152,7 +158,7 @@ This problem was discussed [here](https://web.archive.org/web/20230401195156/htt
 
 *Solution 4.2*: $14/3$. This problem was discussed [here](https://web.archive.org/web/20230402182156/https://math.stackexchange.com/questions/179534/the-expected-payoff-of-a-dice-game:).
 
-**Problem 4.3**: Explain Kelly criteron.
+**Problem 4.3**: Explain Kelly criteron. See [here](https://web.archive.org/web/20230403005128/https://zhuanlan.zhihu.com/p/38279377).
 
 **Problem 4.4**: Assuming you have a uniform random integer generator that generates integers between 1 and 5, how can you generate a uniform random integer between 1 and 7?
 
@@ -178,6 +184,16 @@ Using inverse transform sampling, we can generate $\phi \sim \mathrm{Unif}([0,2\
 
 The third method is to use $U^{1/3}\frac{\mathbf{x}}{\|\mathbf{x}\|_2}$, where $U\sim \mathrm{Unif}([0,1])$ and $\mathbf{x}\sim \mathcal{N}(0,I_3)$.
 
+**Problem 4.6**: If you have a dataset with a thousand features and a million records, how would you perform linear regression? How do you handle such a large matrix and measure performance? What should you do if the performance is poor?
+
+**Problem 4.7**: Could you explain the concepts of boosting and random forest and highlight their differences? Additionally, can you elaborate on why using a strong classifier in boosting is not feasible? And how would it be different if a neural network is used? What should be done if the training accuracy is high but the test accuracy is low?
+
+This problem was discussed [here](https://web.archive.org/web/20230403004331/https://stats.stackexchange.com/questions/253789/adaboost-boosting-why-the-base-classifier-must-be-weak-classifier#:~:text=The%20reason%20is%20that%20boosting,to%20control%20the%20model%20complexity.).
+
+**Problem 4.8**: Given $\mathrm{corr}(x,y) = 0.5$ and $\mathrm{corr}(x,z) = 0.5$, what can be said about $\mathrm{corr}(y,z)$? Do you have three methods to solve it?
+
+This problem was discussed [here](https://web.archive.org/web/20230403003939/https://www.quora.com/If-the-correlation-between-X-and-Y-is-0-9-and-the-correlation-between-Y-and-Z-is-0-9-what-can-you-say-about-the-correlation-between-X-and-Z).
+
 
 ## Programming
 
@@ -185,3 +201,4 @@ The third method is to use $U^{1/3}\frac{\mathbf{x}}{\|\mathbf{x}\|_2}$, where $
 - LeetCode `53. Maximum Subarray`.
 - LeetCode `560. Subarray Sum Equals K`
 - The problem of hash collisions in HashMap, and how to solve them.
+- To reverse the order of words in a given string, for instance, transform "hello world" to "world hello".

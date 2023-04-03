@@ -176,7 +176,7 @@ The volume element in spherical coordinates is $dxdydz = r^2 \sin \theta drd\the
 
 Using inverse transform sampling, we can generate $\phi \sim \mathrm{Unif}([0,2\pi])$, $r= U_1^{1/3}$, $\theta=\arccos(1-2 U_2)$, where $U_1,U_2\sim \mathrm{Unif}([0,1])$.
 
-The third method is to use $U^{1/3}\frac{\mathbf{x}}{|\mathbf{x}|_2}$, where $U\sim \mathrm{Unif}([0,1])$ and $\mathbf{x}\sim \mathcal{N}(0,I_3)$.
+The third method is to use $U^{1/3}\frac{\mathbf{x}}{\|\mathbf{x}\|_2}$, where $U\sim \mathrm{Unif}([0,1])$ and $\mathbf{x}\sim \mathcal{N}(0,I_3)$.
 
 
 ## Programming

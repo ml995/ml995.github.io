@@ -7,9 +7,9 @@ tags:
   - probability
 ---
 
-**Problem 4.9**: Suppose we have two jars, each containing $n$ balls. We randomly select one of the jars with equal probability and draw a ball from it. We repeat this process until one of the jars becomes empty. Find the expected value of the number of balls remaining in the other jar.
+**Problem**: Suppose we have two jars, each containing $n$ balls. We randomly select one of the jars with equal probability and draw a ball from it. We repeat this process until one of the jars becomes empty. Find the expected value of the number of balls remaining in the other jar.
 
-**Solution 4.9**: The problem at hand is related to Banach's matchbox problem, but with a slight difference. In Banach's matchbox problem, the process stops when one of the jars is found to be empty. To find the expected value of the number of balls remaining in the other jar, we only need to find the expected value of $T$, where $T$ is the time taken to empty one jar.
+**Solution**: The problem at hand is related to Banach's matchbox problem, but with a slight difference. In Banach's matchbox problem, the process stops when one of the jars is found to be empty. To find the expected value of the number of balls remaining in the other jar, we only need to find the expected value of $T$, where $T$ is the time taken to empty one jar.
 
 Suppose that when we empty the first jar, the other jar has $k$ balls remaining ($k=0,1,2,\dots,n-1$). This event happens with probability
 

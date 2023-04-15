@@ -196,7 +196,7 @@ This problem was discussed [here](https://web.archive.org/web/20230403003939/htt
 
 **Problem 4.9**: Suppose we have two jars, each containing $n$ balls. We randomly select one of the jars with equal probability and draw a ball from it. We repeat this process until one of the jars becomes empty. Find the expected value of the number of balls remaining in the other jar.
 
-The solution can be found at [this post](2023-04-15-expected_value_of_balls_in_second_jar.md).
+The solution can be found at [this post](/posts/2023/04/expected_value_of_balls_in_second_jar/).
 
 ## Programming
 

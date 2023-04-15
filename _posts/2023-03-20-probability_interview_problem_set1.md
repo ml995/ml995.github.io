@@ -152,7 +152,7 @@ This problem was discussed [here](https://web.archive.org/web/20230401195156/htt
 
 **Problem 4.1**: Examples of two random variables that are uncorrelated but dependent.
 
-*Solution 4.1*: $X\sim \mathbb{N}(0,1)$, $Y=X^2$. In this case, $\mathrm{cov}(X,Y)=\mathbb{E}[X^3]=0$ but $X,Y$ are clearly dependent.
+*Solution 4.1*: $X\sim \mathcal{N}(0,1)$, $Y=X^2$. In this case, $\mathrm{cov}(X,Y)=\mathbb{E}[X^3]=0$ but $X,Y$ are clearly dependent.
 
 **Problem 4.2**: You can roll a dice a maximum of three times and get the amount shown on the dice face. After each roll, you can choose to stop playing and take the money earned without continuing to roll. The money earned from each roll cannot be added up. What is the anticipated amount of money you can win from this game?
 
@@ -194,6 +194,9 @@ This problem was discussed [here](https://web.archive.org/web/20230403004331/htt
 
 This problem was discussed [here](https://web.archive.org/web/20230403003939/https://www.quora.com/If-the-correlation-between-X-and-Y-is-0-9-and-the-correlation-between-Y-and-Z-is-0-9-what-can-you-say-about-the-correlation-between-X-and-Z).
 
+**Problem 4.9**: Suppose we have two jars, each containing $n$ balls. We randomly select one of the jars with equal probability and draw a ball from it. We repeat this process until one of the jars becomes empty. Find the expected value of the number of balls remaining in the other jar.
+
+The solution can be found at [this post](2023-04-15-expected_value_of_balls_in_second_jar.md).
 
 ## Programming
 

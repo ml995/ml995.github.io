@@ -5,6 +5,8 @@ permalink: /posts/2023/04/straight_line_regression_basic/
 comments: true
 tags:
   - statistics
+  - linear-regression
+  - regression
 ---
 
 Straight line regression is a common topic in interviews, so it is essential to understand the basics. A helpful reference for this topic is available at [this link](https://web.archive.org/web/20230416020029/https://mathworld.wolfram.com/CorrelationCoefficient.html). In straight line regression, we aim to fit $y$ by $\beta_1 x + \beta_0$.
@@ -26,6 +28,8 @@ $$
 \end{align}
 $$
 
+From the expression of $\hat{\beta}_1$, we can observe that the product of the regression coefficient of $y$ against $x$ and the coefficient of $x$ against $y$ is $\frac{S_{xy}^2}{S_{xx}S_{yy}} = r^2 \leq 1$, where $r^2$ represents the sample correlation coefficient.
+
 We can define $\bar{\hat{y}} = \frac{1}{n} \sum_{i=1}^n \hat{y}_i$, where $\hat{y}_i$ is the predicted value of $y$ based on $\beta_0$ and $\beta_1$. Note that $\bar{\hat{y}} = \bar{y}$. 
 
 The explained sum of squares (ESS) is given by:
@@ -46,4 +50,4 @@ $$
 R^2 = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{S_{xy}^2}{S_{xx}S_{yy}} = r^2
 $$
 
-where $r^2 = \frac{S_{xy}^2}{S_{xx}S_{yy}}$ is the sample correlation coefficient. Thus, in straight line regression with an intercept, $R^2 = r^2$.
+Thus, in straight line regression with an intercept, $R^2 = r^2$.

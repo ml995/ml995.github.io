@@ -5,6 +5,8 @@ permalink: /posts/2023/04/constant_correlation_in_ridge_regression/
 comments: true
 tags:
   - statistics
+  - ridge-regression
+  - regression
 ---
 
 **Question**: What might be the reason for the correlation $\mathrm{corr}(\hat{y},y)$ between the predicted values ($\hat{y}$) and actual values ($y$) to stay constant while changing the value of $\lambda$ in ridge regression?

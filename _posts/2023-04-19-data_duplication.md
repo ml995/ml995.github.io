@@ -20,8 +20,8 @@ To introduce the notation, let us define:
 - $S_{xy,n} = \sum_{i}^n (x_i - \bar{x})(y_i - \bar{y})$
 - $S_{xx,n} = \sum_{i=1}^n (x_i - \bar{x})^2$
 - $S_{yy,n} = \sum_{i=1}^n (y_i - \bar{y})^2$
-- $\bar{y}_n = \frac{1}{n} \sum_{i=1}^n y_i$
-- $\bar{x}_n = \frac{1}{n} \sum_{i=1}^n x_i$
+- $\bar{y}\_n = \frac{1}{n} \sum_{i=1}^n y_i$
+- $ \bar{x}\_n = \frac{1}{n} \sum_{i=1}^n x_i $
 
 The estimates for $\beta_0$ and $\beta_1$ are:
 

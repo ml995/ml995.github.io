@@ -28,7 +28,7 @@ $$
 \end{align}
 $$
 
-From the expression of $\hat{\beta}_1$, we can observe that the product of the regression coefficient of $y$ against $x$ and the coefficient of $x$ against $y$ is $\frac{S_{xy}^2}{S_{xx}S_{yy}} = r^2 \leq 1$, where $r^2$ represents the sample correlation coefficient between $x$ and $y$.
+From the expression of $\hat{\beta}\_1$, we can observe that the product of the regression coefficient of $y$ against $x$ and the coefficient of $x$ against $y$ is $\frac{S_{xy}^2}{S_{xx}S_{yy}} = r^2 \leq 1$, where $r^2$ represents the sample correlation coefficient between $x$ and $y$.
 
 We can define $\bar{\hat{y}} = \frac{1}{n} \sum_{i=1}^n \hat{y}_i$, where $\hat{y}_i$ is the predicted value of $y$ based on $\beta_0$ and $\beta_1$. Note that $\bar{\hat{y}} = \bar{y}$. 
 

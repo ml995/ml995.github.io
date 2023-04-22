@@ -200,6 +200,8 @@ The solution can be found at [this post](/posts/2023/04/expected_value_of_balls_
 
 **Problem 4.10**: What would happen to the values of $R^2$, correlation, and t-test if I were to duplicate the 100 samples and increase the sample size to 200?
 
+The solution can be found at [this post](/posts/2023/04/data_duplication/).
+
 **Problem 4.11**: What might be the reason for the correlation $\mathrm{corr}(\hat{y},y)$ between the predicted values ($\hat{y}$) and actual values ($y$) to stay constant while changing the value of $\lambda$ in ridge regression?
 
 *Solution 4.11*: $X^\top X$ has equal eigenvalues. See my [blog post](/posts/2023/04/constant_correlation_in_ridge_regression/).

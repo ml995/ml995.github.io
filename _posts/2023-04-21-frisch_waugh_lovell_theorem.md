@@ -61,6 +61,7 @@ $$
 &= \sigma^2\frac{e_i^\top e_j}{\|e_i\|_2^2\|e_j\|_2^2}
 \end{aligned}
 $$
+
 where $\sigma^2$ is the variance of noise, $e_i = M_iX_i$ is the residual vector of regressing $X_i$ against the remaining variables.
 
 We can observe that the $(i,j)$ entry of the matrix $\sigma^2(X^\top X)^{-1}$ is actually the covariance between $\hat{\beta}_i$ and $\hat{\beta}_j$. For $i=j$, the $(i,i)$ entry is $\sigma^2/\|e_i\|_2^2$, which is specifically utilized in the $t$-test of $\hat{\beta}_i$.

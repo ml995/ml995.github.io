@@ -14,7 +14,7 @@ This post was partially inspired by [this great tutorial](http://mtor.sci.yorku.
 ## Projection Theorem
 Let $X\in \mathbb{R}^{n\times p}$ be a matrix of full column rank and $y\in \mathbb{R}^n$ be a column vector. Then the vector $b$ is the OLS solution to regressing $y$ against $X$ if and only if there exists a vector $e\in\mathbb{R}^n$ such that $e\perp\mathrm{colspace}(X)$ and $y=Xb+e$. 
 
-## Proof
+### Proof
 
 **"If" part**: If $y=Xb+e$ and $e\perp\mathrm{colspace}(X)$, we have 
 

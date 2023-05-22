@@ -11,9 +11,9 @@ title                    : "Lin Chen's homepage"
 title_separator          : "-"
 name                     : &name "Lin Chen"
 description              : &description "personal description"
-url                      : https://lchen91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ml995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lchen91/lchen91.github.io"
+repository               : "ml995/ml995.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -22,7 +22,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : https-lchen91-github-io
+    shortname            : https-ml995-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "lchen91"
+  github           : # "ml995"
   google_plus      :
   keybase          :
   instagram        :

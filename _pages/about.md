@@ -9,30 +9,7 @@ redirect_from:
 comments: true
 ---
 
-<!-- ## About Me -->
-
-<!-- Lin Chen -->
-<!-- Ph.D. candidate -->
-<!-- Yale Institute for Network Science, Department of Electrical Engineering, Yale University -->
-
-Lin Chen is a research scientist at Google Research. 
-<!-- Lin Chen is a postdoctoral scholar at the [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/), [University of California, Berkeley
-](https://www.berkeley.edu/).  -->
-<!-- He received Ph.D. at [Yale University](https://www.yale.edu/) in 2020, advised by Prof [Amin Karbasi](http://iid.yale.edu/).
-He received B.S. at [Peking University](http://english.pku.edu.cn/) in 2014. -->
- His research interests focus on machine learning theory. 
-
-  <!-- His [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 (Lin Chen -> Sanjoy Dasgupta -> Leonard J. Schulman -> Paul Erdős). -->
-
-<!-- Email: linchen.dr [at] gmail [dot] com -->
-
-<!-- ORCID Researcher ID: 0000-0003-0349-6577. -->
-
-
-
-<!-- ## News
-
-* My paper [Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS](https://arxiv.org/pdf/2009.10683.pdf) was accepted to ICLR 2021. [slides](http://lchen91.github.io/files/NTK_talk.pdf) -->
+Lin Chen is a research scientist at Google Research. His research interests focus on machine learning theory. 
 
 ## Selected Awards
 * Google Ph.D. Fellowship

@@ -50,7 +50,7 @@ author_profile: true
 11. **Lin Chen**, Hamed Hassani, and Amin Karbasi, [Online Continuous Submodular Maximization](http://proceedings.mlr.press/v84/chen18f.html), *AISTATS 2018 Oral Presentation*. 
 <!-- [github] -->
 12. Ehsan Kazemi, **Lin Chen**, Sanjoy Dasgupta, and Amin Karbasi, [Comparison Based Learning from Weak Oracles](https://arxiv.org/pdf/1802.06942.pdf), *AISTATS 2018*.
-1. Yuanxing Zhang, Kaigui Bian, **Lin Chen**, Shaoling Dong, Lingyang Song, and Xiaoming Li, [Early Detection of Rumors in Heterogeneous Mobile Social Network](https://ieeexplore.ieee.org/iel7/8411555/8411822/08411870.pdf), *DSC 2018 Best Student Paper Award*.
+1. Yuanxing Zhang, Kaigui Bian, **Lin Chen**, Shaoling Dong, Lingyang Song, and Xiaoming Li, [Early Detection of Rumors in Heterogeneous Mobile Social Network](https://ieeexplore.ieee.org/iel7/8411555/8411822/08411870.pdf), *DSC 2018 Best Student Paper Award*.
 1. Yuanxing Zhang, **Lin Chen**, Kaigui Bian, Lingyang Song, and Xiaoming Li, [Enabling Symbiotic Coexistence of Heterogeneous Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/8610411), *DySPAN 2018 Workshop: 5G Spectrum*.
 1. **Lin Chen**, Ruolin Fan, Yangbin Zhang, Shuyu Shi, Kaigui Bian, Lin Chen, Pan Zhou, Mario Gerla, Tao Wang, and Xiaoming Li, [On Heterogeneous Duty Cycles for Neighbor Discovery in Wireless Sensor Networks](https://www.sciencedirect.com/science/article/pii/S1570870518301331), *Ad Hoc Networks*, 2018.
 1. Shuyu Shi, Stephan Sigg, **Lin Chen**, and Yusheng Ji. [Accurate Location Tracking from CSI-based Passive Device-free Probabilistic Fingerprinting](https://ieeexplore.ieee.org/iel7/25/4356907/08304587.pdf), *IEEE Transactions on Vehicular Technology*, 2018.

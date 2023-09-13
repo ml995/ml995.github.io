@@ -9,7 +9,7 @@ redirect_from:
 comments: true
 ---
 
-Lin Chen is a research scientist at Google Research. His research interests focus on machine learning theory. 
+Lin Chen is a researcher on machine learning. 
 
 ## Selected Publications
 

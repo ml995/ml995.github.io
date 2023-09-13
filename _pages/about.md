@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-comments: true
+comments: false
 ---
 
 Lin Chen is a researcher on machine learning. 
